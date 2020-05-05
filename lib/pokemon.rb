@@ -1,5 +1,5 @@
 class Pokemon
-  
+
   def initialize(id=nil,name,type,db)
     @id = id
     @name = name
@@ -7,5 +7,5 @@ class Pokemon
     @db = db
   end
 
-  
+
 end
